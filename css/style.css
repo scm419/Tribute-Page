@@ -1,3 +1,33 @@
+/* elements */
 body {
-    background-color: violet;
+    background-color: #FFC4DD;
+    text-align: center;
+    font-size: 20px;
+}
+
+hr {
+    border: dotted;
+    border-bottom: none;
+    width: 50%;
+    margin: 50px auto;
+}
+
+img {
+    border-radius: 10%;
+}
+
+/* CLASSES */
+.bottom-container {
+    background-color: #FF6FB5;
+    padding: 50px 0 20px;
+}
+
+.copyrights {
+    color: white;
+    margin: 0 auto 10px;
+    font-size: 15px;
+}
+
+.info {
+    margin: 50px 300px;
 }
