@@ -17,15 +17,15 @@ img {
 }
 
 /* CLASSES */
-.bottom-container {
-    background-color: #FF6FB5;
-    padding: 50px 0 20px;
-}
-
 .copyrights {
     color: white;
-    margin: 0 auto 10px;
+    margin: 5px auto 10px;
     font-size: 15px;
+}
+
+.footer {
+    background-color: #FF6FB5;
+    padding: 50px 0 20px;
 }
 
 .info {
